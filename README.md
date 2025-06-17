@@ -33,6 +33,8 @@ This project uses data analytics tools to trace how **desire, concepts, and disc
 
 This network visualizes symbolic connections like *Lilith → Womb → Blood → Exile → Desire*, modeled as a non-hierarchical system of conceptual intensities in the spirit of Deleuze and Guattari’s rhizomatic thought.
 
+👉 [Open the full Jupyter notebook](notebooks/RhizomeGraph.ipynb)
+
 ## 📌 Project Goals
 
 - Build a living model of symbolic drift and conceptual entanglement
