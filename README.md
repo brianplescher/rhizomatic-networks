@@ -29,11 +29,9 @@ This project uses data analytics tools to trace how **desire, concepts, and disc
 
 ## 📈 Sample Visualization
 
-> *(Coming soon)* Screenshot of your graph here.  
-> Use:  
-> ```python  
-> nx.draw_networkx(G, with_labels=True)  
-> ```
+![Rhizomatic Concept Graph](images/sample-graph.png)
+
+This network visualizes symbolic connections like *Lilith → Womb → Blood → Exile → Desire*, modeled as a non-hierarchical system of conceptual intensities in the spirit of Deleuze and Guattari’s rhizomatic thought.
 
 ## 📌 Project Goals
 
