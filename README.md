@@ -35,6 +35,10 @@ This network visualizes symbolic connections like *Lilith → Womb → Blood →
 
 👉 [Open the full Jupyter notebook](notebooks/RhizomeGraph.ipynb)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brianplescher/rhizomatic-networks/HEAD?labpath=notebooks%2FRhizomeGraph.ipynb)
+
+👉 Click the badge to launch the notebook in a live, interactive Binder environment.
+
 ## 📌 Project Goals
 
 - Build a living model of symbolic drift and conceptual entanglement
